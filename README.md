@@ -1,2 +1,2 @@
 # linloot
-Linux post exploitation scripts and tools
+Miscellaneous Linux post exploitation scripts and tools
